@@ -5,7 +5,7 @@ header("Access-Control-Allow-Origin: *");
 
 $host = "localhost";
 $uname = "id16408215_pedshopdb";
-$pwd = "3Iig%=&/0YLiOq-W";
+$pwd = "xxxxxx";
 $database = "id16408215_petshopdb";
 $con = mysqli_connect($host, $uname, $pwd, $database);
 
